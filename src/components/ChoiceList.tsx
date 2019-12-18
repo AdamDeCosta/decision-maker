@@ -1,12 +1,10 @@
 import React, { useState } from "react";
 import Choice from "./Choice";
-import {
-  List,
-  ListSubheader,
-  ListItem,
-  Button,
-  Container
-} from "@material-ui/core";
+import List from "@material-ui/core/List";
+import ListSubheader from "@material-ui/core/ListSubheader";
+import ListItem from "@material-ui/core/ListItem";
+import Button from "@material-ui/core/Button";
+import Container from "@material-ui/core/Container";
 import Add from "@material-ui/icons/Add";
 import Done from "@material-ui/icons/Done";
 import "./ChoiceList.css";

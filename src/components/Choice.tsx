@@ -1,5 +1,5 @@
 import React from "react";
-import { ListItem, TextField } from "@material-ui/core";
+import { TextField } from "@material-ui/core";
 
 interface Choice {
   content: string;
